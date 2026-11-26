@@ -1,0 +1,6 @@
+{
+  "name": "O Café da Banda — Soyo",
+  "description": "Espaço de restauração rápida, café quente, matabicho e tardes animadas com música e ambiente de Bar de Rua no Soyo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
